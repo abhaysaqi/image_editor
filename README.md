@@ -1,16 +1,48 @@
-# image_editor
+# 🖼️ Flutter Image Editor App
 
-A new Flutter project.
+A simple and user-friendly **Image Editor App** built using Flutter. This app allows users to:
 
-## Getting Started
+- Pick an image from their device.
+- Edit the image using built-in tools.
+- Save the edited image locally.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📁 Pick image using **file_picker**
+- 🖌️ Edit images with **pro_image_editor**
+- 💾 Save edited images using **path_provider**
+- ⚡ Lightweight and fast performance
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Demo
+
+Here’s a short demo of how the app works:
+
+![Image Editor Demo](assets/demo.gif)
+
+> 📌 Place your demo GIF in the `assets` folder and name it `demo.gif` (or update the path above accordingly).
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/your-username/image_editor_app.git
+cd image_editor_app
+```
+### 2. Install dependencies
+```bash
+flutter pub get
+```
+### 3. Run the app
+```
+flutter run
+```
+
+### 📃 License
+**This project is licensed under the MIT License.**
