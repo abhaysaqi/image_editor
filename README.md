@@ -21,7 +21,7 @@ A simple and user-friendly **Image Editor App** built using Flutter. This app al
 
 Here’s a short demo of how the app works:
 
-![Image Editor Demo](assets/demo.gif)
+![Image Editor Demo](https://github.com/abhaysaqi/image_editor/blob/main/image_editor_demo.gif)
 
 > 📌 Place your demo GIF in the `assets` folder and name it `demo.gif` (or update the path above accordingly).
 
